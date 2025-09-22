@@ -1,0 +1,10 @@
+# Nmap 7.98 scan initiated Mon Sep 22 15:31:06 2025 as: nmap -sT -Pn -p 7070,9999,10000 --script=http-title,http-headers,http-enum -oN 10.1.9.100_http_enum.txt 10.1.9.100
+Nmap scan report for 10.1.9.100
+Host is up (0.016s latency).
+
+PORT      STATE SERVICE
+7070/tcp  open  realserver
+9999/tcp  open  abyss
+10000/tcp open  snet-sensor-mgmt
+
+# Nmap done at Mon Sep 22 15:31:07 2025 -- 1 IP address (1 host up) scanned in 0.73 seconds

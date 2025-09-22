@@ -1,0 +1,217 @@
+# Nmap 7.98 scan initiated Mon Sep 22 15:03:57 2025 as: nmap -sn -oN ping_sweep_9.txt 10.1.9.0/24
+Nmap scan report for 10.1.9.4
+Host is up (0.018s latency).
+MAC Address: 40:1A:58:09:C3:25 (Wistron Neweb)
+Nmap scan report for 10.1.9.14
+Host is up (0.014s latency).
+MAC Address: CC:15:31:61:F2:9C (Intel Corporate)
+Nmap scan report for 10.1.9.17
+Host is up (0.036s latency).
+MAC Address: 56:36:56:34:84:6C (Unknown)
+Nmap scan report for 10.1.9.22
+Host is up (0.010s latency).
+MAC Address: CC:5E:F8:67:1B:BD (Cloud Network Technology Singapore PTE.)
+Nmap scan report for 10.1.9.24
+Host is up (0.024s latency).
+MAC Address: 8C:C6:81:2A:CC:63 (Intel Corporate)
+Nmap scan report for 10.1.9.27
+Host is up (0.0080s latency).
+MAC Address: 70:1C:E7:51:9A:6E (Intel Corporate)
+Nmap scan report for 10.1.9.29
+Host is up (0.0060s latency).
+MAC Address: EA:D9:CB:00:F2:E1 (Unknown)
+Nmap scan report for 10.1.9.30
+Host is up (0.0050s latency).
+MAC Address: FA:B8:CE:0B:80:81 (Unknown)
+Nmap scan report for 10.1.9.32
+Host is up (0.0060s latency).
+MAC Address: 9E:AF:91:E4:0E:02 (Unknown)
+Nmap scan report for 10.1.9.36
+Host is up (0.016s latency).
+MAC Address: F2:CD:EE:45:60:25 (Unknown)
+Nmap scan report for 10.1.9.40
+Host is up (0.011s latency).
+MAC Address: 42:E4:33:59:73:CF (Unknown)
+Nmap scan report for 10.1.9.52
+Host is up (0.020s latency).
+MAC Address: 74:33:57:DD:7F:03 (vivo Mobile Communication)
+Nmap scan report for 10.1.9.60
+Host is up (0.019s latency).
+MAC Address: 52:F5:3B:7C:6E:2B (Unknown)
+Nmap scan report for 10.1.9.63
+Host is up (0.0050s latency).
+MAC Address: 5E:29:71:E2:94:85 (Unknown)
+Nmap scan report for 10.1.9.64
+Host is up (0.0040s latency).
+MAC Address: CE:25:E1:72:AE:F0 (Unknown)
+Nmap scan report for 10.1.9.67
+Host is up (0.018s latency).
+MAC Address: 82:B6:C4:A2:5E:3B (Unknown)
+Nmap scan report for 10.1.9.68
+Host is up (0.092s latency).
+MAC Address: EA:C6:1D:05:EA:13 (Unknown)
+Nmap scan report for 10.1.9.72
+Host is up (1.4s latency).
+MAC Address: 66:54:BA:5D:4B:39 (Unknown)
+Nmap scan report for 10.1.9.73
+Host is up (0.0050s latency).
+MAC Address: 4C:D5:77:5C:D4:2B (Chongqing Fugui Electronics)
+Nmap scan report for 10.1.9.97
+Host is up (0.012s latency).
+MAC Address: 04:B1:67:C9:71:8B (Xiaomi Communications)
+Nmap scan report for 10.1.9.100
+Host is up (0.010s latency).
+MAC Address: B4:8C:9D:BA:AA:AF (AzureWave Technology)
+Nmap scan report for 10.1.9.101
+Host is up (0.0090s latency).
+MAC Address: 32:D9:8D:08:38:3A (Unknown)
+Nmap scan report for 10.1.9.104
+Host is up (0.0070s latency).
+MAC Address: 9C:B8:B4:F4:47:F4 (Ampak Technology)
+Nmap scan report for 10.1.9.105
+Host is up (0.0060s latency).
+MAC Address: EA:A1:D7:B0:19:B8 (Unknown)
+Nmap scan report for 10.1.9.112
+Host is up (1.2s latency).
+MAC Address: 38:8D:3D:7D:08:6A (Wistron Neweb)
+Nmap scan report for 10.1.9.114
+Host is up (0.0090s latency).
+MAC Address: 34:CF:F6:DD:D6:E1 (Intel Corporate)
+Nmap scan report for 10.1.9.117
+Host is up (0.024s latency).
+MAC Address: F2:D8:F2:A7:96:7A (Unknown)
+Nmap scan report for 10.1.9.121
+Host is up (0.021s latency).
+MAC Address: 48:A4:72:89:63:36 (Intel Corporate)
+Nmap scan report for 10.1.9.122
+Host is up (0.020s latency).
+MAC Address: C0:E5:DA:AE:0E:3A (Qingdao Intelligent&Precise Electronics)
+Nmap scan report for 10.1.9.127
+Host is up.
+MAC Address: 2C:8D:B1:FE:8F:71 (Intel Corporate)
+Nmap scan report for 10.1.9.128
+Host is up (0.017s latency).
+MAC Address: 00:9C:C0:F8:D2:F7 (vivo Mobile Communication)
+Nmap scan report for 10.1.9.137
+Host is up (0.081s latency).
+MAC Address: 42:29:E7:BA:EB:15 (Unknown)
+Nmap scan report for 10.1.9.138
+Host is up (0.078s latency).
+MAC Address: A6:CC:EF:4C:C1:03 (Unknown)
+Nmap scan report for 10.1.9.140
+Host is up (0.076s latency).
+MAC Address: DC:4B:A1:22:60:3C (Wistron Neweb)
+Nmap scan report for 10.1.9.159
+Host is up (0.047s latency).
+MAC Address: 3C:E9:F7:CE:33:44 (Intel Corporate)
+Nmap scan report for 10.1.9.163
+Host is up (0.042s latency).
+MAC Address: 82:69:55:13:0A:2B (Unknown)
+Nmap scan report for 10.1.9.165
+Host is up (0.039s latency).
+MAC Address: 58:02:05:50:DA:58 (AzureWave Technology)
+Nmap scan report for 10.1.9.170
+Host is up (0.033s latency).
+MAC Address: 04:D6:AA:65:4D:15 (Samsung Electro-mechanics(Thailand))
+Nmap scan report for 10.1.9.171
+Host is up (0.032s latency).
+MAC Address: 7A:57:AB:FA:2C:AA (Unknown)
+Nmap scan report for 10.1.9.172
+Host is up (0.031s latency).
+MAC Address: C0:E5:DA:AE:0E:FE (Qingdao Intelligent&Precise Electronics)
+Nmap scan report for 10.1.9.173
+Host is up (0.030s latency).
+MAC Address: 7A:2F:33:84:02:C9 (Unknown)
+Nmap scan report for 10.1.9.175
+Host is up (0.098s latency).
+MAC Address: 2E:EA:E1:59:DB:1E (Unknown)
+Nmap scan report for 10.1.9.183
+Host is up (0.080s latency).
+MAC Address: 52:64:2C:2E:5D:67 (Unknown)
+Nmap scan report for 10.1.9.184
+Host is up (0.080s latency).
+MAC Address: C0:E5:DA:AE:07:70 (Qingdao Intelligent&Precise Electronics)
+Nmap scan report for 10.1.9.186
+Host is up (0.078s latency).
+MAC Address: 2A:5A:39:56:1A:0D (Unknown)
+Nmap scan report for 10.1.9.188
+Host is up (0.073s latency).
+MAC Address: FA:0D:3E:96:84:BC (Unknown)
+Nmap scan report for 10.1.9.192
+Host is up (0.0050s latency).
+MAC Address: D2:64:7C:C3:B3:4C (Unknown)
+Nmap scan report for 10.1.9.195
+Host is up (0.043s latency).
+MAC Address: 70:08:94:6E:98:01 (Liteon Technology)
+Nmap scan report for 10.1.9.199
+Host is up (0.033s latency).
+MAC Address: 0C:E0:DC:79:63:A1 (Samsung Electronics)
+Nmap scan report for 10.1.9.207
+Host is up (0.0050s latency).
+MAC Address: 02:D7:F6:6C:60:4D (Unknown)
+Nmap scan report for 10.1.9.213
+Host is up (0.0030s latency).
+MAC Address: DC:45:46:46:FE:1A (Intel Corporate)
+Nmap scan report for 10.1.9.219
+Host is up (0.019s latency).
+MAC Address: 90:E8:68:EF:66:1B (AzureWave Technology)
+Nmap scan report for 10.1.9.221
+Host is up (0.015s latency).
+MAC Address: 60:FF:9E:4F:E1:12 (AzureWave Technology)
+Nmap scan report for 10.1.9.222
+Host is up (0.013s latency).
+MAC Address: 78:AF:08:CF:BD:3B (Intel Corporate)
+Nmap scan report for 10.1.9.224
+Host is up.
+MAC Address: E4:60:17:92:D0:29 (Intel Corporate)
+Nmap scan report for 10.1.9.228
+Host is up (0.0050s latency).
+MAC Address: 34:2E:B7:5F:0A:FA (Intel Corporate)
+Nmap scan report for 10.1.9.231
+Host is up (0.0060s latency).
+MAC Address: EE:7E:A7:F1:D0:4F (Unknown)
+Nmap scan report for 10.1.9.233
+Host is up (0.0030s latency).
+MAC Address: FC:77:74:4E:72:A3 (Intel Corporate)
+Nmap scan report for 10.1.9.234
+Host is up (0.059s latency).
+MAC Address: A0:51:0B:1C:81:AD (Intel Corporate)
+Nmap scan report for 10.1.9.235
+Host is up (0.058s latency).
+MAC Address: BC:03:58:93:7A:BA (Intel Corporate)
+Nmap scan report for 10.1.9.236
+Host is up (0.058s latency).
+MAC Address: C0:E5:DA:AE:15:3A (Qingdao Intelligent&Precise Electronics)
+Nmap scan report for 10.1.9.237
+Host is up (0.057s latency).
+MAC Address: F2:04:10:82:E7:68 (Unknown)
+Nmap scan report for 10.1.9.238
+Host is up (0.056s latency).
+MAC Address: C0:35:32:4E:38:B7 (Liteon Technology)
+Nmap scan report for 10.1.9.239
+Host is up (0.055s latency).
+MAC Address: AE:6D:2B:70:FD:21 (Unknown)
+Nmap scan report for 10.1.9.240
+Host is up (0.054s latency).
+MAC Address: 10:F6:0A:20:00:AD (Intel Corporate)
+Nmap scan report for 10.1.9.241
+Host is up (0.053s latency).
+MAC Address: 88:F4:DA:7E:C4:49 (Intel Corporate)
+Nmap scan report for 10.1.9.244
+Host is up (0.032s latency).
+MAC Address: 22:31:95:15:21:A2 (Unknown)
+Nmap scan report for 10.1.9.245
+Host is up (0.025s latency).
+MAC Address: 00:41:0E:59:28:07 (Cloud Network Technology Singapore PTE.)
+Nmap scan report for 10.1.9.253
+Host is up (0.058s latency).
+MAC Address: A4:12:32:C4:E7:9B (Guangdong Oppo Mobile Telecommunications)
+Nmap scan report for 10.1.9.254
+Host is up (0.057s latency).
+MAC Address: 34:6F:24:C6:E5:E9 (AzureWave Technology)
+Nmap scan report for 10.1.9.255
+Host is up (0.054s latency).
+MAC Address: 90:0E:FE:A1:21:1F (Unknown)
+Nmap scan report for 10.1.9.248
+Host is up.
+# Nmap done at Mon Sep 22 15:04:12 2025 -- 256 IP addresses (72 hosts up) scanned in 15.09 seconds

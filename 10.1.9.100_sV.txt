@@ -1,0 +1,67 @@
+# Nmap 7.98 scan initiated Mon Sep 22 15:26:33 2025 as: nmap -sT -Pn -sV -p 7070,9999,10000 -oN 10.1.9.100_sV.txt 10.1.9.100
+Nmap scan report for 10.1.9.100
+Host is up (0.017s latency).
+
+PORT      STATE SERVICE           VERSION
+7070/tcp  open  ssl/realserver?
+9999/tcp  open  abyss?
+10000/tcp open  snet-sensor-mgmt?
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port9999-TCP:V=7.98%I=7%D=9/22%Time=68D11D5C%P=i686-pc-windows-windows%
+SF:r(GetRequest,276,"HTTP/1\.0\x20200\x20OK\r\nCONNECTION:\x20KEEP-ALIVE\r
+SF:\nCONTENT-LENGTH:\x20566\r\n\r\n<!DOCTYPE\x20html><html><body><RESPONSE
+SF:>License\x20server\x20is\x20Running<br><br><b>Product\x20:\x20</b>Tally
+SF:\.ERP\x209<br><b>Serial\x20number\x20:\x20</b>\(Not\x20Applicable\)<br>
+SF:<b>License\x20state\x20:\x20</b>\x20No\x20License<br><br><b>Product\x20
+SF::\x20</b>Tally\.Developer\x209<br><b>Serial\x20number\x20:\x20</b>\(Not
+SF:\x20Applicable\)<br><b>License\x20state\x20:\x20</b>\x20No\x20License<b
+SF:r><br><b>Product\x20:\x20</b>Shoper\x209<br><b>Serial\x20number\x20:\x2
+SF:0</b>\(Not\x20Applicable\)<br><b>License\x20state\x20:\x20</b>\x20No\x2
+SF:0License<br><br><b>Product\x20:\x20</b>Tally\.Server\x209<br><b>Serial\
+SF:x20number\x20:\x20</b>\(Not\x20Applicable\)<br><b>License\x20state\x20:
+SF:\x20</b>\x20No\x20License<br></RESPONSE></body></html>\0")%r(FourOhFour
+SF:Request,276,"HTTP/1\.0\x20200\x20OK\r\nCONNECTION:\x20KEEP-ALIVE\r\nCON
+SF:TENT-LENGTH:\x20566\r\n\r\n<!DOCTYPE\x20html><html><body><RESPONSE>Lice
+SF:nse\x20server\x20is\x20Running<br><br><b>Product\x20:\x20</b>Tally\.ERP
+SF:\x209<br><b>Serial\x20number\x20:\x20</b>\(Not\x20Applicable\)<br><b>Li
+SF:cense\x20state\x20:\x20</b>\x20No\x20License<br><br><b>Product\x20:\x20
+SF:</b>Tally\.Developer\x209<br><b>Serial\x20number\x20:\x20</b>\(Not\x20A
+SF:pplicable\)<br><b>License\x20state\x20:\x20</b>\x20No\x20License<br><br
+SF:><b>Product\x20:\x20</b>Shoper\x209<br><b>Serial\x20number\x20:\x20</b>
+SF:\(Not\x20Applicable\)<br><b>License\x20state\x20:\x20</b>\x20No\x20Lice
+SF:nse<br><br><b>Product\x20:\x20</b>Tally\.Server\x209<br><b>Serial\x20nu
+SF:mber\x20:\x20</b>\(Not\x20Applicable\)<br><b>License\x20state\x20:\x20<
+SF:/b>\x20No\x20License<br></RESPONSE></body></html>\0");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port10000-TCP:V=7.98%I=7%D=9/22%Time=68D11D5C%P=i686-pc-windows-windows
+SF:%r(GetRequest,2CA,"HTTP/1\.0\x20200\x20OK\r\nCONNECTION:\x20KEEP-ALIVE\
+SF:r\nCONTENT-LENGTH:\x20650\r\n\r\n<!DOCTYPE\x20html><html><body><RESPONS
+SF:E>License\x20server\x20is\x20Running<br><br><b>Gateway\x20Version\x20:\
+SF:x20</b>11\.0<br><b>Gateway\x20Release\x20:\x20</b>2\.1\.0\x20\(19187\)<
+SF:br><br><b>Product\x20:\x20</b>TallyPrime<br><b>Serial\x20number\x20:\x2
+SF:0</b>\(Not\x20Applicable\)<br><b>License\x20state\x20:\x20</b>\x20No\x2
+SF:0License<br><br><b>Product\x20:\x20</b>TallyPrime\x20Developer<br><b>Se
+SF:rial\x20number\x20:\x20</b>\(Not\x20Applicable\)<br><b>License\x20state
+SF:\x20:\x20</b>\x20No\x20License<br><br><b>Product\x20:\x20</b>Shoper\x20
+SF:9<br><b>Serial\x20number\x20:\x20</b>\(Not\x20Applicable\)<br><b>Licens
+SF:e\x20state\x20:\x20</b>\x20No\x20License<br><br><b>Product\x20:\x20</b>
+SF:TallyPrime\x20Server<br><b>Serial\x20number\x20:\x20</b>\(Not\x20Applic
+SF:able\)<br><b>License\x20state\x20:\x20</b>\x20No\x20License<br></RESPON
+SF:SE></body></html>\0")%r(FourOhFourRequest,2CA,"HTTP/1\.0\x20200\x20OK\r
+SF:\nCONNECTION:\x20KEEP-ALIVE\r\nCONTENT-LENGTH:\x20650\r\n\r\n<!DOCTYPE\
+SF:x20html><html><body><RESPONSE>License\x20server\x20is\x20Running<br><br
+SF:><b>Gateway\x20Version\x20:\x20</b>11\.0<br><b>Gateway\x20Release\x20:\
+SF:x20</b>2\.1\.0\x20\(19187\)<br><br><b>Product\x20:\x20</b>TallyPrime<br
+SF:><b>Serial\x20number\x20:\x20</b>\(Not\x20Applicable\)<br><b>License\x2
+SF:0state\x20:\x20</b>\x20No\x20License<br><br><b>Product\x20:\x20</b>Tall
+SF:yPrime\x20Developer<br><b>Serial\x20number\x20:\x20</b>\(Not\x20Applica
+SF:ble\)<br><b>License\x20state\x20:\x20</b>\x20No\x20License<br><br><b>Pr
+SF:oduct\x20:\x20</b>Shoper\x209<br><b>Serial\x20number\x20:\x20</b>\(Not\
+SF:x20Applicable\)<br><b>License\x20state\x20:\x20</b>\x20No\x20License<br
+SF:><br><b>Product\x20:\x20</b>TallyPrime\x20Server<br><b>Serial\x20number
+SF:\x20:\x20</b>\(Not\x20Applicable\)<br><b>License\x20state\x20:\x20</b>\
+SF:x20No\x20License<br></RESPONSE></body></html>\0");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Sep 22 15:27:21 2025 -- 1 IP address (1 host up) scanned in 48.14 seconds

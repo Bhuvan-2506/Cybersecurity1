@@ -1,0 +1,13 @@
+# Nmap 7.98 scan initiated Mon Sep 22 15:08:40 2025 as: nmap -sS -Pn -T3 --scan-delay 150ms -p 22,80,443,445,3389 -oN scan_sS_10.1.9.4.txt 10.1.9.4
+Nmap scan report for 10.1.9.4
+Host is up (0.017s latency).
+
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+80/tcp   filtered http
+443/tcp  filtered https
+445/tcp  filtered microsoft-ds
+3389/tcp filtered ms-wbt-server
+MAC Address: 40:1A:58:09:C3:25 (Wistron Neweb)
+
+# Nmap done at Mon Sep 22 15:08:45 2025 -- 1 IP address (1 host up) scanned in 5.14 seconds

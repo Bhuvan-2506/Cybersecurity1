@@ -1,0 +1,13 @@
+# Nmap 7.98 scan initiated Mon Sep 22 15:05:22 2025 as: nmap -sT -Pn -sV -p 22,80,443,3389,445 -oN scan_10.1.9.4.txt 10.1.9.4
+Nmap scan report for 10.1.9.4
+Host is up.
+
+PORT     STATE    SERVICE       VERSION
+22/tcp   filtered ssh
+80/tcp   filtered http
+443/tcp  filtered https
+445/tcp  filtered microsoft-ds
+3389/tcp filtered ms-wbt-server
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Sep 22 15:05:28 2025 -- 1 IP address (1 host up) scanned in 5.87 seconds
